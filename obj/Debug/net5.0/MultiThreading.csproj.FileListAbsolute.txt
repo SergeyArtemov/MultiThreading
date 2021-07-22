@@ -1,0 +1,16 @@
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.csprojAssemblyReference.cache
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.AssemblyInfoInputs.cache
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.AssemblyInfo.cs
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\MultiThreading.exe
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\MultiThreading.deps.json
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\MultiThreading.runtimeconfig.json
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\MultiThreading.runtimeconfig.dev.json
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\MultiThreading.dll
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\ref\MultiThreading.dll
+C:\ProjectsCLR\MultiThreading\bin\Debug\net5.0\MultiThreading.pdb
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.dll
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\ref\MultiThreading.dll
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.pdb
+C:\ProjectsCLR\MultiThreading\obj\Debug\net5.0\MultiThreading.genruntimeconfig.cache
